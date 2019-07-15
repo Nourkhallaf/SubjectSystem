@@ -1,0 +1,28 @@
+E:\ITI Prog\Angular\WebAPICore\WebAPICore\bin\Debug\netcoreapp2.1\WebAPICore.deps.json
+E:\ITI Prog\Angular\WebAPICore\WebAPICore\bin\Debug\netcoreapp2.1\WebAPICore.runtimeconfig.json
+E:\ITI Prog\Angular\WebAPICore\WebAPICore\bin\Debug\netcoreapp2.1\WebAPICore.runtimeconfig.dev.json
+E:\ITI Prog\Angular\WebAPICore\WebAPICore\bin\Debug\netcoreapp2.1\WebAPICore.dll
+E:\ITI Prog\Angular\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.1\WebAPICore.csproj.CoreCompileInputs.cache
+E:\ITI Prog\Angular\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.1\WebAPICore.RazorAssemblyInfo.cache
+E:\ITI Prog\Angular\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.1\WebAPICore.RazorAssemblyInfo.cs
+E:\ITI Prog\Angular\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.1\WebAPICore.AssemblyInfoInputs.cache
+E:\ITI Prog\Angular\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.1\WebAPICore.AssemblyInfo.cs
+E:\ITI Prog\Angular\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.1\WebAPICore.RazorTargetAssemblyInfo.cache
+E:\ITI Prog\Angular\WebAPICore\WebAPICore\bin\Debug\netcoreapp2.1\WebAPICore.pdb
+E:\ITI Prog\Angular\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.1\WebAPICore.dll
+E:\ITI Prog\Angular\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.1\WebAPICore.pdb
+E:\ITI Prog\Angular\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.1\WebAPICore.csprojAssemblyReference.cache
+F:\ITI\Angular\FinalProject\WebAPICore\WebAPICore\bin\Debug\netcoreapp2.1\WebAPICore.deps.json
+F:\ITI\Angular\FinalProject\WebAPICore\WebAPICore\bin\Debug\netcoreapp2.1\WebAPICore.runtimeconfig.json
+F:\ITI\Angular\FinalProject\WebAPICore\WebAPICore\bin\Debug\netcoreapp2.1\WebAPICore.runtimeconfig.dev.json
+F:\ITI\Angular\FinalProject\WebAPICore\WebAPICore\bin\Debug\netcoreapp2.1\WebAPICore.dll
+F:\ITI\Angular\FinalProject\WebAPICore\WebAPICore\bin\Debug\netcoreapp2.1\WebAPICore.pdb
+F:\ITI\Angular\FinalProject\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.1\WebAPICore.csprojAssemblyReference.cache
+F:\ITI\Angular\FinalProject\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.1\WebAPICore.csproj.CoreCompileInputs.cache
+F:\ITI\Angular\FinalProject\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.1\WebAPICore.RazorAssemblyInfo.cache
+F:\ITI\Angular\FinalProject\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.1\WebAPICore.RazorAssemblyInfo.cs
+F:\ITI\Angular\FinalProject\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.1\WebAPICore.AssemblyInfoInputs.cache
+F:\ITI\Angular\FinalProject\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.1\WebAPICore.AssemblyInfo.cs
+F:\ITI\Angular\FinalProject\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.1\WebAPICore.RazorTargetAssemblyInfo.cache
+F:\ITI\Angular\FinalProject\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.1\WebAPICore.dll
+F:\ITI\Angular\FinalProject\WebAPICore\WebAPICore\obj\Debug\netcoreapp2.1\WebAPICore.pdb
